@@ -49,8 +49,6 @@ RegisterCommand('deleteoutfit', function(source, args)
 	end
 end)
 
--- RegisterNetEvent('pbrpClothingItems:reset')
--- AddEventHandler('pbrpClothingItems:reset', function()
 RegisterCommand('changeback', function(source, args)
 	local src = source
 	local xPlayer = QBCore.Functions.GetPlayer(src)
@@ -64,7 +62,6 @@ RegisterCommand('changeback', function(source, args)
 			['identifier'] = ident,
 		})
 		Citizen.Wait(100)
-		--TriggerClientEvent('skinchanger:client:loadSkin', skin)
         TriggerClientEvent("illenium-appearance:client:reloadSkin", source)
 	end
 end)
