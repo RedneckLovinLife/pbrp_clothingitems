@@ -17,7 +17,7 @@ NOTE:
 The item will be removed on use. You can stop it from being deleted by removing the following line in server.lua:
 `Player.Functions.RemoveItem(Config[i].itemName, 1)` 
 
-Pull request are welcomed and encouraged as I IDK WTF I am doing. 😕
+Pull request are welcome & encouraged as I IDK WTF I am doing. 😕
 
 PREVIEW:
 https://streamable.com/etnwfd
