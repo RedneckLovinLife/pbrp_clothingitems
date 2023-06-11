@@ -16,22 +16,6 @@ Citizen.CreateThread(function()
 	while not LocalPlayer.state['isLoggedIn'] do
 		Wait(1000)
 	end
-	Wait(10000) 
+	Wait(2000) 
 	updateClothing()
 end)
-
--- RegisterCommand('changeback', function()
--- 	local xPlayer = QBCore.Functions.GetPlayer(source)
--- 	local ident = xPlayer.PlayerData.citizenid
--- 	TriggerEvent('skinchanger:getSkin', function(skin)
--- 		print("heere")
--- 		if skin == nil then
--- 			print("Skin wasn't loaded properly from illenium. Report error to Developer Team.")
--- 		else
--- 			TriggerServerEvent('pbrpClothingItems:reset')
--- 			TriggerEvent('skinchanger:loadSkin', skin)
--- 			TriggerEvent("illenium-appearance:client:reloadSkin", source)
--- 			print("Triggered")
--- 		end
--- 	end)
--- end)
