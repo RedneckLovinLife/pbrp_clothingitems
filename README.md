@@ -18,3 +18,7 @@ COMMANDS:
 The item will be removed on use. You can stop it from being deleted by removing the xPlayer.removeInventoryItem line in server.lua.
 
 Pull request are welcomed and encouraged as I IDK WTF I am doing. 😕
+
+TODO:
+Animations
+Feel free to PR! 
