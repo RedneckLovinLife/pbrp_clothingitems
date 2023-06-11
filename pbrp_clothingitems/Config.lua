@@ -86,3 +86,4 @@ Config = {
 		itemName = 'outfit2', -- Item name in your database
 		label = 'Fancy Outfit #2', -- Only used for notification.
 	},
+}	
