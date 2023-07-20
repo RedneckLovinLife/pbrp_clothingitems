@@ -3,7 +3,7 @@ Clothing as item script for QBCore &amp; illenium-appearance
 
 Fisrt off, a HUGE shout out to @MrBluffz for the original ESX code https://github.com/MrBluffz
 
-This is a simple script for doing single pieces of clothes as items!
+This is a simple script for doing clothes as items!
 It especially works great for chains & other jewelry, turnout gear, or entire outfits even.
 
 
