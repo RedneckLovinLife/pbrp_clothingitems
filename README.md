@@ -7,7 +7,7 @@ This is a simple script for doing single pieces of clothes as items!
 It especially works great for chains & other jewelry, turnout gear, or entire outfits even.
 
 
-Don't forget to add the item to your items.lua for use, add inventory pics & run the SQL
+Don't forget to add the `item` to your `items.lua` for use, add inventory pics & run the SQL
 
 
 COMMANDS:
