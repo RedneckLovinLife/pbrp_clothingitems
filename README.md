@@ -24,3 +24,5 @@ https://streamable.com/etnwfd
 
 TODO:
 Animations (Feel free to PR!)
+
+Want a custom chain to go with the script? Check out my friends @ SNS Developments! 👉 https://discord.gg/p9gjmwTr8p
